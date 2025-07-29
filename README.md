@@ -34,4 +34,4 @@ Check out the live game here:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/memory-card-game.git
+   [git clone https://github.com/upeka200163/Memory-Card-Game.git
