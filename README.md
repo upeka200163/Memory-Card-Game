@@ -18,7 +18,7 @@ Match all the emoji cards before the time runs out!
 ## 📸 Preview
 
 Check out the live game here:  
-👉 [Live Demo](#) ([Add your GitHub Pages link here](https://upeka200163.github.io/Memory-Card-Game/))
+👉 [Live Demo](#) (https://upeka200163.github.io/Memory-Card-Game/)
 
 ---
 
