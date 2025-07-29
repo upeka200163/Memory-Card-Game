@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Memory Card Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="brand">
+        <div class="logo">🧠</div>
+        <div class="brand-text">
+          <h1>Memory Card Game</h1>
+          <p>Train your brain with a fun game</p>
+        </div>
+      </div>
+      <button class="btn" onclick="location.reload()">Restart</button>
+    </header>
+
+    <div class="game-container">
+        <div class="timer-box">
+        ⏰ Time Left: <span id="timer">10:00</span>
+        </div>
+      <div class="memory-board" id="memory-board"></div>
+    </div>
+  </div>
+
+  <div class="win-screen" id="win-screen">
+    <div class="win-content">
+      <h2>🎉 You Win!</h2>
+      <p>All cards matched successfully.</p>
+      <button class="btn" onclick="location.reload()">Play Again</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
